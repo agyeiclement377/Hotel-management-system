@@ -79,3 +79,7 @@ Enter your choice: 6
 
 Exiting...
 
+
+
+https://github.com/agyeiclement377/Hotel-management-system/assets/159913676/178dc575-a096-425a-9544-d2e700baa1e4
+
